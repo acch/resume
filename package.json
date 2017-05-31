@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/acch/resume/issues"
   },
-  "homepage": "https://github.com/acch/resume#readme",
+  "homepage": "http://resume.achim-christ.de",
   "devDependencies": {
     "jsonresume-theme-slick": ">=0.1.16",
     "resume-cli": ">=0.4.19"

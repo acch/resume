@@ -1,5 +1,5 @@
 # Resume of Achim Christ
 
-Made with http://jsonresume.org
+Made with https://jsonresume.org/
 
-Hosted by https://pages.github.com/
+Hosted by https://pages.github.com at http://resume.achim-christ.de
