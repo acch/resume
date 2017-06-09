@@ -55,7 +55,7 @@
       "position": "Student employee",
       "website": "http://www.ibm.com/software/products/en/spectrum-protect",
       "startDate": "2003-03-01",
-      "endDate": "2004-02-28"
+      "endDate": "2004-02-29"
     },
     {
       "company": "bibo TV",
@@ -84,11 +84,19 @@
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "Byteshell",
+      "website": "https://byteshell.net",
+      "summary": "My personal website with technical articles and project descriptions."
+    },
+    {
+      "name": "Storageneers",
+      "website": "https://www.ibm.com/developerworks/community/blogs/storageneers/search?t=entry&q=Achim Christ",
+      "summary": "Work-related blog to which I contribute to."
+    },
+    {
+      "name": "IBM Techdocs",
+      "website": "http://www.ibm.com/support/techdocs/atsmastr.nsf/WebDocs/?Search&Query=(Achim Christ)",
+      "summary": "Work-related technical papers."
     }
   ],
   "skills": [
