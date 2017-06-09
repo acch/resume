@@ -76,10 +76,14 @@
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
+      "title": "The Open Group Master Certified IT Specialist",
       "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "summary": "IBM Level 2 IT Specialist Certification — Expert Level"
+    },
+    {
+      "title": "The Open Group Certified IT Specialist",
+      "date": "2014-11-01",
+      "summary": "IBM Level 1 IT Specialist Certification — Experienced Level"
     }
   ],
   "publications": [
@@ -91,7 +95,7 @@
     {
       "name": "Storageneers",
       "website": "https://www.ibm.com/developerworks/community/blogs/storageneers/search?t=entry&q=Achim Christ",
-      "summary": "Work-related blog to which I contribute to."
+      "summary": "Work-related blog to which I sporadically contribute to."
     },
     {
       "name": "IBM Techdocs",
