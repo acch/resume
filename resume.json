@@ -61,8 +61,8 @@
       "company": "bibo TV",
       "position": "Intern",
       "website": "http://www.bibotv.de",
-      "startDate": "2000-12-01",
-      "endDate": "2000-12-01"
+      "startDate": "2000-06-01",
+      "endDate": "2000-07-31"
     }
   ],
   "education": [
@@ -77,12 +77,12 @@
   "awards": [
     {
       "title": "The Open Group Master Certified IT Specialist",
-      "date": "2014-11-01",
+      "date": "2016-11-25",
       "summary": "IBM Level 2 IT Specialist Certification — Expert Level"
     },
     {
       "title": "The Open Group Certified IT Specialist",
-      "date": "2014-11-01",
+      "date": "2014-04-07",
       "summary": "IBM Level 1 IT Specialist Certification — Experienced Level"
     }
   ],
@@ -100,7 +100,7 @@
     {
       "name": "IBM Techdocs",
       "website": "http://www.ibm.com/support/techdocs/atsmastr.nsf/WebDocs/?Search&Query=(Achim Christ)",
-      "summary": "Work-related technical papers."
+      "summary": "Collection of work-related technical papers."
     }
   ],
   "skills": [
@@ -131,6 +131,14 @@
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Basics"
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Basics"
     }
   ]
 }
