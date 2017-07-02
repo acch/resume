@@ -43,7 +43,8 @@
       "position": "Trainee",
       "website": "http://www.ibm.com/software/products/en/spectrum-protect-for-space-management",
       "startDate": "2004-03-01",
-      "endDate": "2004-07-31"
+      "endDate": "2004-07-31",
+      "summary": "Designed and successfully implemented a modular automation framework for building the Tivoli Storage Manager client on all supported Unix platforms."
     },
     {
       "company": "IBM Deutschland Speichersysteme GmbH",
