@@ -135,5 +135,14 @@
       "language": "Dutch",
       "fluency": "Basics"
     }
+  ],
+  "interests": [
+    { "name": "Storage" },
+    { "name": "Security" },
+    { "name": "Virtualization" },
+    { "name": "Automation" },
+    { "name": "Web technologies" },
+    { "name": "Digital rights and digital culture" },
+    { "name": "Linux and open source software" }
   ]
 }
