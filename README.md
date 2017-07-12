@@ -2,6 +2,8 @@
 
 Made with https://jsonresume.org
 
-Hosted by https://pages.github.com at http://resume.achim-christ.de
+Hosted by https://www.netlify.com/ at https://resume.achim-christ.de
+
+Build command: `make build`
 
 Copyright 2017 Achim Christ, all rights reserved
