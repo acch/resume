@@ -1,6 +1,24 @@
---- docs/index.html	2018-05-22 14:14:28.000000000 +0200
-+++ /tmp/index.html	2018-05-22 14:14:15.764809971 +0200
-@@ -484,11 +484,42 @@
+--- docs/index.html	2018-05-22 16:13:52.000000000 +0200
++++ /tmp/index.html	2018-05-22 16:13:50.050667417 +0200
+@@ -117,7 +117,7 @@
+ 	color: #3b3b3b;
+ }
+ 
+-#profiles [class*="entypo-"] {
++#profiles [class*="entypo-"], #profiles .icon {
+ 	margin-right:10px;
+ 	font-size: 2.8em;
+ 	-webkit-transition: all 0.5s ease;
+@@ -258,7 +258,7 @@
+     font-style: normal;
+ }
+ 
+-[class^="entypo-"], [class*=" entypo-"] {
++[class^="entypo-"], [class*=" entypo-"], #profiles .icon {
+     font-family: 'entypo';
+     speak: none;
+     font-style: normal;
+@@ -484,11 +484,33 @@
      content: "\e634";
  }
  
@@ -11,15 +29,6 @@
 +  stroke-width: 0;
 +  stroke: currentColor;
 +  fill: currentColor;
-+
-+  margin-right:10px;
-+  font-size: 2.8em;
-+  -webkit-transition: all 0.5s ease;
-+  -moz-transition: all 0.5s ease;
-+  -o-transition: all 0.5s ease;
-+  -ms-transition: all 0.5s ease;
-+  -webkit-font-smoothing: antialiased;
-+  -moz-osx-font-smoothing: grayscale;
 +}
 +#profiles .icon-xing2:hover {
 +  color: #B0D400;
@@ -43,7 +52,7 @@
  	<div class="container" id="resume">
  			<div id="card" class="row">
  				<div class="col-xs-3 col-sm-4">
-@@ -525,7 +556,7 @@
+@@ -525,7 +547,7 @@
  							</div>
  							<div class="item">
  								<a href="https://www.xing.com/profile/Achim_Christ2">
