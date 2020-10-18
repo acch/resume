@@ -16,7 +16,7 @@
       {
         "network": "Twitter",
         "username": "oechelsen",
-        "url": "https://twitter.com/oechelsen"
+        "url": "https://twitter.com/ChristAchim"
       },
       {
         "network": "Xing",
@@ -42,7 +42,7 @@
     {
       "company": "IBM Deutschland Entwicklung GmbH, Linux Integration Center",
       "position": "Degree candidate",
-      "website": "https://www-03.ibm.com/linux/",
+      "website": "https://developer.ibm.com/technologies/linux/",
       "startDate": "2005-03-01",
       "endDate": "2005-08-31",
       "summary": "Thesis title: \"Development of a Portal-based Business Application in Combination with an Eclipse Rich Client\""
@@ -105,8 +105,8 @@
       "summary": "My personal website with technical articles and project descriptions."
     },
     {
-      "name": "Storageneers",
-      "website": "https://www.ibm.com/developerworks/community/blogs/storageneers/search?t=entry&q=Achim Christ",
+      "name": "IBM IT Infrastructure",
+      "website": "https://www.ibm.com/blogs/systems/author/achimchrist/",
       "summary": "Work-related blog to which I sporadically contribute to."
     },
     {
