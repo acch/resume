@@ -26,7 +26,7 @@
   },
   "work": [
     {
-      "company": "IBM Deutschland GmbH, European Storage Competence Center",
+      "company": "IBM Deutschland GmbH, EMEA Storage Competence Center",
       "position": "IT Specialist",
       "website": "https://www.ibm.com/it-infrastructure/services/lab-services",
       "startDate": "2005-09-01",
@@ -136,8 +136,8 @@
         "C / C++",
         "Perl",
         "Docker",
-        "HTML 5",
-        "CSS 3",
+        "HTML",
+        "CSS",
         "JavaScript",
         "XML / XSLT",
         "Gimp",
