@@ -125,17 +125,16 @@
         "KVM",
         "Bash",
         "Git",
-        "Nagios",
-        "Ansible"
+        "Ansible",
+        "Nagios"
       ]
     },
     {
       "name": "Secondary",
       "level": "Things I do regularly",
       "keywords": [
-        "C / C++",
-        "Perl",
-        "Docker",
+        "Kubernetes",
+        "Jenkins",
         "HTML",
         "CSS",
         "JavaScript",
@@ -148,7 +147,9 @@
       "name": "Ancient",
       "level": "Things I did in the past",
       "keywords": [
+        "C / C++",
         "Java / J2EE",
+        "Perl",
         "PHP",
         "SQL",
         "Ruby"
