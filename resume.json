@@ -100,12 +100,12 @@
   ],
   "publications": [
     {
-      "name": "Byteshell",
-      "website": "https://www.byteshell.net",
-      "summary": "My personal website with technical articles and project descriptions."
+      "name": "Speichernetze — Storage Networks Explained",
+      "website": "https://dpunkt.de/produkt/speichernetze/",
+      "summary": "I am co-author of the 3rd edition of the publication."
     },
     {
-      "name": "IBM IT Infrastructure",
+      "name": "IBM IT Infrastructure Blog",
       "website": "https://www.ibm.com/blogs/systems/author/achimchrist/",
       "summary": "Work-related blog to which I sporadically contribute to."
     },
@@ -113,6 +113,11 @@
       "name": "IBM Techdocs",
       "website": "http://www.ibm.com/support/techdocs/atsmastr.nsf/WebDocs/?Search&Query=(Achim Christ)",
       "summary": "Collection of work-related technical papers."
+    },
+    {
+      "name": "Byteshell",
+      "website": "https://www.byteshell.net",
+      "summary": "My personal website with technical articles and project descriptions."
     }
   ],
   "skills": [
