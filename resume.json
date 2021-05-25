@@ -60,14 +60,14 @@
     {
       "company": "IBM Deutschland GmbH",
       "position": "Student employee",
-      "website": "https://www.ibm.com/de-en/marketplace/data-protection-and-recovery",
+      "website": "https://www.ibm.com/products/data-protection-and-recovery",
       "startDate": "2004-08-01",
       "endDate": "2004-12-31"
     },
     {
       "company": "IBM Deutschland GmbH, Tivoli Storage Manager Development",
       "position": "Trainee",
-      "website": "https://www.ibm.com/support/knowledgecenter/en/SSERBH/landing/welcome_sserbh.html",
+      "website": "https://www.ibm.com/docs/en/spfsm",
       "startDate": "2004-03-01",
       "endDate": "2004-07-31",
       "summary": "Designed and successfully implemented a modular automation framework for building the Tivoli Storage Manager client packages on supported Unix platforms."
@@ -75,7 +75,7 @@
     {
       "company": "IBM Deutschland Speichersysteme GmbH",
       "position": "Student employee",
-      "website": "https://www.ibm.com/de-en/marketplace/data-protection-and-recovery",
+      "website": "https://www.ibm.com/products/data-protection-and-recovery",
       "startDate": "2003-03-01",
       "endDate": "2004-02-29"
     },
@@ -118,11 +118,6 @@
       "name": "IBM IT Infrastructure Blog",
       "website": "https://www.ibm.com/blogs/systems/author/achimchrist/",
       "summary": "Work-related blog to which I sporadically contribute to."
-    },
-    {
-      "name": "IBM Techdocs",
-      "website": "http://www.ibm.com/support/techdocs/atsmastr.nsf/WebDocs/?Search&Query=(Achim Christ)",
-      "summary": "Collection of work-related technical papers."
     },
     {
       "name": "Byteshell",
