@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Achim Christ",
-    "label": "Master Certified IT Specialist",
+    "label": "Master Certified Technical Specialist",
     "picture": "profile.jpg",
     "email": "info@achim-christ.de",
     "phone": "+49-174-588-9624",
@@ -33,7 +33,7 @@
     },
     {
       "company": "IBM Deutschland GmbH, EMEA Storage Competence Center",
-      "position": "IT Specialist",
+      "position": "Technical Specialist",
       "website": "https://www.ibm.com/partnerworld/systems/storage/escc",
       "startDate": "2005-09-01",
       "summary": "As a Lab Services consultant for IBM Systems I'm helping clients design, implement and efficiently manage smarter storage solutions. I am an expert on software defined storage and scale-out file solutions, with a strong background in open source technology.",
@@ -94,14 +94,14 @@
   ],
   "awards": [
     {
-      "title": "The Open Group Master Certified IT Specialist",
+      "title": "The Open Group Master Certified Technical Specialist",
       "date": "2016-11-25",
-      "summary": "IBM Level 2 IT Specialist Certification — Expert Level"
+      "summary": "IBM Level 2 Technical Specialist Profession Certification — Expert Level"
     },
     {
-      "title": "The Open Group Certified IT Specialist",
+      "title": "The Open Group Certified Technical Specialist",
       "date": "2014-04-07",
-      "summary": "IBM Level 1 IT Specialist Certification — Experienced Level"
+      "summary": "IBM Level 1 Technical Specialist Profession Certification — Experienced Level"
     }
   ],
   "publications": [
