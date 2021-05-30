@@ -24,16 +24,17 @@
       },
       {
         "network": "Credly",
-        "url": "https://www.credly.com/users/achim-christ/badges"
+        "url": "https://www.credly.com/users/achim-christ"
       }
     ]
   },
   "work": [
     {
-      "company": "IBM Systems, Lab Services Europe",
+      "company": "IBM Systems, Lab Services EMEA",
       "position": "CTO for Storage & SDI",
       "website": "https://www.ibm.com/it-infrastructure/services/lab-services",
-      "startDate": "2020-02-01"
+      "startDate": "2020-02-01",
+      "summary": "As Lab Services CTO for IBM Storage I'm developing and leading the organization's strategic technical direction. I'm evaluating new technology trends to make sure that consultant's skills are aligned to support clients adapting emerging technologies in a dynamically-evolving space. I'm helping grow infrastructure services business by driving initiatives for enhancing the technical team's capabilities. As part of this, I'm helping replicate best practices among the 9 markets in Europe, Middle-East & Africa."
     },
     {
       "company": "IBM Deutschland GmbH, EMEA Storage Competence Center",
