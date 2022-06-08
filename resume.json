@@ -146,12 +146,11 @@
     },
     {
       "name": "Programming",
-      "level": "Things I did in the past",
       "keywords": [
-        "Bash / KornShell"
+        "Bash / KornShell",
         "C / C++",
         "Java / J2EE",
-        "JavaScript / Node.js"
+        "JavaScript / Node.js",
         "Perl / PHP",
         "SQL",
         "Ruby"
