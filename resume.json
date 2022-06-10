@@ -31,10 +31,10 @@
   "work": [
     {
       "company": "IBM Systems, Lab Services EMEA",
-      "position": "CTO for Storage & SDI",
+      "position": "Chief Technology Officer (CTO)",
       "website": "https://www.ibm.com/it-infrastructure/services/lab-services",
       "startDate": "2020-02-01",
-      "summary": "As Lab Services CTO for IBM Storage I'm developing and leading the EMEA team's strategic technical direction. I'm evaluating new technology trends to make sure that ~100 consultants' skills are aligned to support clients adapting emerging technologies in a dynamically-evolving space. As part of this, I'm helping replicate best practices among 8 markets in Europe, Middle-East & Africa."
+      "summary": "As Lab Services CTO for IBM Storage I'm developing and leading the EMEA team's strategic technical direction. I'm evaluating new technology trends to ensure that ~100 consultants' skills are aligned to support clients adapting emerging technologies in a dynamically-evolving space. I'm liaising with senior leadership to replicate best practices among 8 markets in Europe, Middle-East & Africa."
     },
     {
       "position": "Open Source Maintainer",
@@ -46,7 +46,7 @@
     },
     {
       "company": "IBM Deutschland GmbH, EMEA Storage Competence Center",
-      "position": "Technical Specialist",
+      "position": "IT Management Consultant",
       "website": "https://www.ibm.com/partnerworld/systems/storage/escc",
       "startDate": "2005-09-01",
       "summary": "As Lab Services consultant for IBM Systems I'm helping clients design, implement and efficiently manage smarter infrastructure solutions. I am an expert on software defined storage and scale-out file solutions, and technical lead of the local group of specialists.",
