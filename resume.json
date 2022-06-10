@@ -73,7 +73,7 @@
       "website": "https://www.ibm.com/docs/en/spfsm",
       "startDate": "2004-03-01",
       "endDate": "2004-07-31",
-      "summary": "Design and implement a modular automation framework for building the Tivoli Storage Manager client packages on supported Unix platforms."
+      "summary": "Design and implementation of a modular automation framework for building the Tivoli Storage Manager client packages on supported Unix platforms."
     },
     {
       "company": "IBM Deutschland Speichersysteme GmbH",
@@ -131,13 +131,14 @@
         "Sophisticated infrastructure projects",
         "Software defined systems",
         "Linux / BSD / Unix administration, automation & virtualization",
-        "DevOps / IaC / Terraform / Ansible"
+        "DevOps / IaC / Ansible / Terraform"
       ]
     },
     {
       "name": "Secondary",
       "level": "Things I do regularly",
       "keywords": [
+        "Clear communication and documentation",
         "CI & CD / Jenkins / Travis CI / GitHub Actions",
         "Docker / Kubernetes / OpenShift",
         "Monitoring / Nagios / Prometheus / Grafana",
