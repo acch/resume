@@ -69,35 +69,6 @@
       "startDate": "2005-03-01",
       "endDate": "2005-08-31",
       "summary": "Thesis title: \"Development of a Portal-based Business Application in Combination with an Eclipse Rich Client\""
-    },
-    {
-      "company": "IBM Deutschland GmbH",
-      "position": "Student employee",
-      "website": "https://www.ibm.com/products/data-protection-and-recovery",
-      "startDate": "2004-08-01",
-      "endDate": "2004-12-31"
-    },
-    {
-      "company": "IBM Deutschland GmbH, Tivoli Storage Manager Development",
-      "position": "Trainee",
-      "website": "https://www.ibm.com/docs/en/spfsm",
-      "startDate": "2004-03-01",
-      "endDate": "2004-07-31",
-      "summary": "Design and implementation of a modular automation framework for building the Tivoli Storage Manager client packages on supported Unix platforms."
-    },
-    {
-      "company": "IBM Deutschland Speichersysteme GmbH",
-      "position": "Student employee",
-      "website": "https://www.ibm.com/products/data-protection-and-recovery",
-      "startDate": "2003-03-01",
-      "endDate": "2004-02-29"
-    },
-    {
-      "company": "bibo TV",
-      "position": "Intern",
-      "website": "http://www.bibotv.de",
-      "startDate": "2000-06-01",
-      "endDate": "2000-07-31"
     }
   ],
   "education": [
