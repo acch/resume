@@ -115,34 +115,37 @@
       "name": "Primary",
       "level": "Things I do every day",
       "keywords": [
-        "Sophisticated infrastructure projects",
-        "Software defined systems",
-        "Technical writing",
-        "Linux / BSD / Unix administration, automation & virtualization",
-        "DevOps / IaC / Ansible / Terraform"
+        "Technical Leadership",
+        "Systems Design / Systems Engineering",
+        "Software Defined Storage / Clustered File Systems",
+        "DevOps & Cloud Orchestration / Infrastructure as Code / Ansible / Terraform",
+        "Linux / BSD / Unix Administration, Automation & Virtualization",
+        "Public Cloud / AWS / IBM Cloud"
       ]
     },
     {
       "name": "Secondary",
       "level": "Things I do regularly",
       "keywords": [
-        "Clear communication and documentation",
+        "Agile Methodologies",
+        "Effective Communication / Concise Documentation",
         "CI & CD / Jenkins / Travis CI / GitHub Actions",
-        "Docker / Kubernetes / OpenShift",
+        "Docker / Kubernetes / Red Hat OpenShift",
+        "Kerberos / Microsoft Active Directory",
+        "Hadoop / Cloudera Data Platform",
         "Monitoring / Nagios / Prometheus / Grafana",
-        "Web technologies"
+        "Web Technologies"
       ]
     },
     {
       "name": "Programming",
       "keywords": [
+        "Version Control / Git",
         "Bash / KornShell",
         "C / C++",
-        "Java / J2EE",
+        "Java / Java EE",
         "JavaScript / Node.js",
-        "Perl / PHP",
-        "SQL",
-        "Ruby"
+        "Learning Go"
       ]
     }
   ],
