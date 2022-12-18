@@ -34,7 +34,7 @@
   },
   "work": [
     {
-      "company": "IBM Systems, Lab Services EMEA",
+      "company": "IBM Systems Lab Services",
       "position": "Chief Technology Officer",
       "website": "https://www.ibm.com/it-infrastructure/services/lab-services",
       "startDate": "2020-02-01",
@@ -42,6 +42,7 @@
       "summary": "As Lab Services CTO for IBM Storage I'm developing and leading the EMEA team's strategic technical direction. I'm evaluating new technology trends to ensure that 80+ consultants' skills are aligned to support customers in a dynamically-evolving space. I'm liaising with senior leadership to replicate best practices among 9 markets in Europe, Middle-East & Africa."
     },
     {
+      "company": "Freelance",
       "position": "Open Source Maintainer",
       "website": "https://github.com/acch",
       "startDate": "2015-03-15",
@@ -52,7 +53,7 @@
       ]
     },
     {
-      "company": "IBM Deutschland GmbH, EMEA Storage Competence Center",
+      "company": "IBM Technology Services",
       "position": "IT Consultant",
       "website": "https://www.ibm.com/partnerworld/systems/storage/escc",
       "startDate": "2005-09-01",
@@ -68,7 +69,7 @@
       ]
     },
     {
-      "company": "IBM Deutschland Entwicklung GmbH, Linux Integration Center",
+      "company": "IBM Linux Integration Center",
       "position": "Degree Candidate",
       "website": "https://developer.ibm.com/technologies/linux/",
       "startDate": "2005-03-01",
@@ -121,7 +122,7 @@
       "keywords": [
         "Technical Leadership",
         "Systems Design / Systems Engineering",
-        "Software Defined Storage / Clustered File Systems",
+        "Software Defined Storage / Clustered File Systems / Distributed Computing",
         "DevOps & Cloud Orchestration / Infrastructure as Code / Ansible / Terraform",
         "Linux / BSD / Unix Administration, Automation & Virtualization",
         "Public Cloud / AWS / IBM Cloud"
@@ -177,7 +178,6 @@
     { "name": "Virtualization" },
     { "name": "Automation" },
     { "name": "Monitoring" },
-    { "name": "Web technologies" },
     { "name": "Digital rights and digital culture" },
     { "name": "Linux and open source software" }
   ]
