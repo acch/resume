@@ -9,6 +9,14 @@
     "summary": "I bring 10+ years of experience designing, implementing, and managing business critical systems. I work with international customers and business partners to build hybrid cloud infrastructure for Big Data & AI use cases. Furthermore, I am training instructor, conference speaker, and author of numerous books, papers and articles.",
     "profiles": [
       {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/achim-christ"
+      },
+      {
+        "network": "Xing",
+        "url": "https://www.xing.com/profile/Achim_Christ2"
+      },
+      {
         "network": "GitHub",
         "username": "acch",
         "url": "https://github.com/acch"
@@ -17,10 +25,6 @@
         "network": "Twitter",
         "username": "ChristAchim",
         "url": "https://twitter.com/ChristAchim"
-      },
-      {
-        "network": "Xing",
-        "url": "https://www.xing.com/profile/Achim_Christ2"
       },
       {
         "network": "Credly",
