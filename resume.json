@@ -34,6 +34,22 @@
   },
   "work": [
     {
+      "company": "IBM Technology Services",
+      "position": "IT Consultant",
+      "website": "https://www.ibm.com/partnerworld/systems/storage/escc",
+      "startDate": "2005-09-01",
+      "summary": "As senior technical consultant for IBM Systems I'm helping international clients deploy and efficiently manage smart infrastructure solutions. I’m heading service development, delivery and training for various strategic IBM Storage products across EMEA. I am an expert on software defined storage and scale-out file solutions, currently focusing on automation and cloud orchestration. Furthermore, I am technical lead for a group of 8 senior specialists.",
+      "highlights": [
+        "2021: Lab Services Award",
+        "2019: Lab Services Award for demonstrating the practice: Put the client first",
+        "2017: Lab Services Award for demonstrating the practice: Share expertise",
+        "2016: Lab Services Award for demonstrating the practice: Listen for need, envision the future",
+        "2015: Outstanding Technical Achievement Award for: Creating significant assets for Spectrum Scale / ESS storage",
+        "2012: Lab Service Award for: Delivery excellence in the execution of Storwize V7000 Unified service development & training",
+        "2011: Lab Service Award for: Delivery excellence in the development & execution of Information Archive services with superior customer satisfaction feedback"
+      ]
+    },
+    {
       "company": "IBM Systems Lab Services",
       "position": "Chief Technology Officer",
       "website": "https://www.ibm.com/it-infrastructure/services/lab-services",
@@ -50,22 +66,6 @@
         "28 public GitHub repositories, 320+ stars, 180+ forks",
         "26 GitHub Enterprise (inner source) repositories",
         "One project later adapted across IBM Storage product portfolio"
-      ]
-    },
-    {
-      "company": "IBM Technology Services",
-      "position": "IT Consultant",
-      "website": "https://www.ibm.com/partnerworld/systems/storage/escc",
-      "startDate": "2005-09-01",
-      "summary": "As senior technical consultant for IBM Systems I'm helping international clients deploy and efficiently manage smart infrastructure solutions. I’m heading service development, delivery and training for various strategic IBM Storage products across EMEA. I am an expert on software defined storage and scale-out file solutions, currently focusing on automation and cloud orchestration. Furthermore, I am technical lead for a group of 8 senior specialists.",
-      "highlights": [
-        "2021: Lab Services Award",
-        "2019: Lab Services Award for demonstrating the practice: Put the client first",
-        "2017: Lab Services Award for demonstrating the practice: Share expertise",
-        "2016: Lab Services Award for demonstrating the practice: Listen for need, envision the future",
-        "2015: Outstanding Technical Achievement Award for: Creating significant assets for Spectrum Scale / ESS storage",
-        "2012: Lab Service Award for: Delivery excellence in the execution of Storwize V7000 Unified service development & training",
-        "2011: Lab Service Award for: Delivery excellence in the development & execution of Information Archive services with superior customer satisfaction feedback"
       ]
     },
     {
