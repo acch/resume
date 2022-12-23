@@ -133,7 +133,7 @@
       "level": "Things I do regularly",
       "keywords": [
         "Agile Methodologies",
-        "Effective Communication / Concise Documentation",
+        "Methodical & Organized",
         "CI & CD / Jenkins / Travis CI / GitHub Actions",
         "Docker / Kubernetes / Red Hat OpenShift",
         "Kerberos / Microsoft Active Directory",
@@ -148,9 +148,9 @@
         "Version Control / Git",
         "Bash / KornShell",
         "C / C++",
+        "Go / Golang",
         "Java / Java EE",
-        "JavaScript / Node.js",
-        "Learning Go"
+        "JavaScript / Node.js"
       ]
     }
   ],
