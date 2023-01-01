@@ -9,4 +9,4 @@ build:
 	sed -i 's|http://bootswatch.com/lumen/bootstrap.min.css|https://bootswatch.com/3/lumen/bootstrap.min.css|' $(RESUME_OUT)
 	sed -i 's|http://fonts.googleapis.com/css|https://fonts.googleapis.com/css|' $(RESUME_OUT)
 	patch $(RESUME_OUT) social.patch
-	patch $(RESUME_OUT) summary.patch
+	sed -i 's|__break__|</p><p class="lead">|' $(RESUME_OUT)
