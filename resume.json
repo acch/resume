@@ -138,7 +138,7 @@
         "Docker / Kubernetes / Red Hat OpenShift",
         "Kerberos / Microsoft Active Directory",
         "Hadoop / Cloudera Data Platform",
-        "Monitoring / Icinga / Prometheus / Grafana",
+        "Monitoring / Nagios / Icinga / Prometheus / Grafana",
         "Web Technologies"
       ]
     },
