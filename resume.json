@@ -71,7 +71,7 @@
     {
       "company": "IBM Linux Integration Center",
       "position": "Degree Candidate",
-      "website": "https://developer.ibm.com/technologies/linux/",
+      "website": "https://developer.ibm.com/technologies/linux",
       "startDate": "2005-03-01",
       "endDate": "2005-08-31",
       "summary": "Thesis title: \"Development of a Portal-based Business Application in Combination with an Eclipse Rich Client\""
@@ -101,17 +101,17 @@
   "publications": [
     {
       "name": "Speichernetze — Storage Networks Explained",
-      "website": "https://dpunkt.de/produkt/speichernetze/",
+      "website": "https://dpunkt.de/produkt/speichernetze",
       "summary": "Co-author of the 3rd edition of the publication: ISBN 978-3-86490-503-2 (dpunkt.verlag)"
     },
     {
       "name": "Managing data storage in a set of storage systems using usage counters ",
       "website": "https://patents.google.com/patent/US9830101B2",
-      "summary": "Co-inventor of United States Patent No. US 9830101B2"
+      "summary": "Co-inventor of United States Patent No. US 9-830-101 B2"
     },
     {
       "name": "IBM IT Infrastructure Blog",
-      "website": "https://www.ibm.com/blogs/systems/author/achimchrist/",
+      "website": "https://www.ibm.com/blogs/systems/author/achimchrist",
       "summary": "Work-related blog to which I sporadically contribute to."
     }
   ],
