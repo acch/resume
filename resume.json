@@ -35,10 +35,18 @@
   "work": [
     {
       "company": "IBM, Technology Expert Labs",
-      "position": "IT Consultant",
+      "position": "Solution Architect",
       "website": "https://www.ibm.com/products/expertlabs",
+      "startDate": "2023-02-01",
+      "summary": "As solution architect for IBM Infrastructure I define and implement cutting-edge infrastructure solutions aligned with business requirements. I collaborate with customers and sellers to understand client requirements, lead technical decisions, and build solution proposals incorporating IBM Systems, Cloud, and Services. I scope and supervise activities, roles, and timelines for services provided to clients in various industries."
+    },
+    {
+      "company": "IBM, EMEA Storage Competence Center",
+      "position": "IT Consultant",
+      "website": "https://www.ibm.com/support/pages/ibm-escc",
       "startDate": "2005-09-01",
-      "summary": "As senior technical specialist for IBM Systems I help clients deploy, modernize and efficiently manage cutting-edge infrastructure solutions. I head service development, delivery and training for various strategic IBM Storage products across EMEA. I am an expert on software defined storage and scale-out file and object solutions, specialized in automation and cloud orchestration. Furthermore, I am technical lead for a group of 8 senior specialists.",
+      "endDate": "2022-12-31",
+      "summary": "As senior technical specialist for IBM Systems I helped clients deploy, modernize, and efficiently manage software-defined infrastructure solutions. I headed service development, delivery, and training for various strategic IBM Storage products across EMEA. I became leading technical expert on scale-out file and object technology, specialized in automation and cloud orchestration. Furthermore, I was technical lead for a group of 8 senior specialists.",
       "highlights": [
         "2021: Lab Services Award",
         "2019: Lab Services Award for demonstrating the practice: Put the client first",
@@ -55,7 +63,7 @@
       "website": "https://www.ibm.com/it-infrastructure/services/lab-services",
       "startDate": "2020-02-01",
       "endDate": "2022-06-30",
-      "summary": "As Lab Services CTO for IBM Storage I developed and pioneered the EMEA team's strategic technical direction. I assessed new technology trends to ensure that 80+ consultants' skills are aligned to support customers in a rapidly evolving market. I liaised with senior leadership to replicate best practices among 9 geographies in Europe, Middle East & Africa."
+      "summary": "As Lab Services CTO for IBM Storage I developed and established the strategic technical direction for the EMEA team. I assessed emerging technology trends to ensure that the skills of 80+ consultants remained current in order to best support customers in a rapidly evolving market. I liaised with senior leadership to replicate best practices among 9 geographies in Europe, Middle East, and Africa."
     },
     {
       "company": "Freelance",
@@ -121,11 +129,11 @@
       "level": "Things I do every day",
       "keywords": [
         "Technical Leadership",
-        "Systems Design / Systems Engineering",
-        "Software Defined Storage / Clustered File Systems / Distributed Computing",
-        "DevOps & Cloud Orchestration / Infrastructure as Code / Ansible / Terraform",
-        "Linux / BSD / Unix Administration, Automation & Virtualization",
-        "Cloud Computing / Public Cloud / AWS / IBM Cloud"
+        "Solution Architecture · Systems Design · Systems Engineering",
+        "Software Defined Storage · Clustered File Systems · Distributed Computing",
+        "DevOps & Cloud Orchestration · Infrastructure as Code · Ansible · Terraform · Packer",
+        "Linux · BSD · Unix Administration, Automation & Virtualization",
+        "Cloud Computing · Public Cloud · AWS · IBM Cloud"
       ]
     },
     {
@@ -134,23 +142,23 @@
       "keywords": [
         "Agile Methodologies",
         "Structured & Organized",
-        "Continuous Integration & Continuous Delivery / Jenkins / Travis CI / GitHub Actions",
-        "Docker / Kubernetes / Red Hat OpenShift",
-        "Kerberos / Microsoft Active Directory",
-        "Hadoop / Cloudera Data Platform",
-        "Monitoring / Nagios / Icinga / Prometheus / Grafana",
+        "Continuous Integration & Continuous Delivery (CI/CD) · Jenkins · Travis CI · GitHub Actions",
+        "Docker · Kubernetes · Red Hat OpenShift",
+        "Kerberos · Microsoft Active Directory",
+        "Hadoop · Cloudera Data Platform",
+        "Monitoring · Nagios · Icinga · Prometheus · Grafana",
         "Web Technologies"
       ]
     },
     {
       "name": "Programming",
       "keywords": [
-        "Version Control / Git",
-        "Bash / KornShell",
-        "C / C++",
-        "Go / Golang",
-        "Java / Java EE",
-        "JavaScript / Node.js"
+        "Version Control · Git",
+        "Bash · KornShell",
+        "C · C++",
+        "Go · Golang",
+        "Java · Java EE",
+        "JavaScript · Node.js"
       ]
     }
   ],
