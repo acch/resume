@@ -1,6 +1,5 @@
 FROM registry.access.redhat.com/ubi9/ubi:latest
 ENV NODE_ENV=production
-ENV PATH="$PATH:/workspaces/resume/node_modules/.bin"
 
 RUN echo -e "\
   alias ls='ls --color=auto'\n\
