@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/acch/resume/issues"
   },
-  "devDependencies": {
+  "dependencies": {
     "jsonresume-theme-slick": "^0.1.16",
     "resume-cli": "^2.2.4"
   }
